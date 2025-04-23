@@ -8,6 +8,6 @@ int main()
 {
     float F;
     cin>>F;
-    cout<<tansformer(F);
+    cout<<tansformer(F)<<endl;
     return 0;
 }

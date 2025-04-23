@@ -1,5 +1,7 @@
 //转华氏度
 #include<iostream>
+#include<vector>
+#include<algorithm>
 using namespace std;
 float tansformer(float F){
     return (F-32)*5/9;
